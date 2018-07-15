@@ -4,10 +4,10 @@ Twitter https://twitter.com/movcx5
 
 In this blog, I will cover security material related to :
 
-1.Computer network security\
-2.Telecom network security\
-3.Iot security \
-4.Mobile security and Mobile Malware 
+1. Computer network security\
+2. Telecom network security\
+3. Iot security \
+4. Mobile security and Mobile Malware 
 
 
 ### About me
