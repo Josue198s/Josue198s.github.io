@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Josue Martins Code and Security blog
 
-You can use the [editor on GitHub](https://github.com/Josue198s/Josue198s.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this blog, I will cover security material related to :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.Computer network security
+2.Telecom network security
+3.Iot security
+4. Mobile security and Mobile Malware.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am intested in Network security,IoT security, Mobile security and Mobile Malware analays.
+I am also eager to learn from other and my dream job is to be Principal security research at a Tech giant.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Josue198s/Josue198s.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
