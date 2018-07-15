@@ -1,4 +1,6 @@
 ## Josue Martins Code and Security blog
+Follow me on
+Twitter https://twitter.com/movcx5
 
 In this blog, I will cover security material related to :
 
